@@ -11,7 +11,6 @@ print 'total profit: ', totalProfit
 
 print
 
-
 subtotal = input("what did your meal cost? ")
 tip = subtotal * 0.18
 tax = subtotal * 0.07
@@ -23,9 +22,6 @@ finalBill = subtotal+ tip+ tax
 print 'total bill : ', finalBill
 
 print
-
-
-
 
 print "this is what you will need for 48 cookies:"
 sugarCups = 1.5
@@ -45,13 +41,3 @@ print "if you want ", numberOfCookiesNeeded, " cookies, you will need: "
 print sugarCups * servings , "cups of sugar"
 print butterCups * servings , "cups of butter"
 print flourCups * servings , "cups of flour"
-
-
-
-
-
-
-
-
-
-
